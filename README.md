@@ -1,4 +1,4 @@
-# Panel rejestracji wzorowany na doktorze Zoidbergu (z animowanego serialu: Futurama)
+# Panel rejestracji wzorowany na doktorze Zoidbergu <br />(z animowanego serialu: Futurama)
 ### Rozmiar panelu jest w pełni uzależniony od niestandardowej właściwości:
 ```css
 --zoidberg-size
